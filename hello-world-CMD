@@ -1,0 +1,3 @@
+echo hello world!
+<or>
+prompt hello world! [this will prompt the text until you close the cmd with exit or close button]
